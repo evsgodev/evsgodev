@@ -2,7 +2,7 @@
 ## Hi there, I'm <a href="https://evsgodev.github.io/about.html" rel="nofollow">Evgeny Staroverov</a><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25rem"><br/>A frontend developer with passion 👨‍💻
 
 My name is Evgeny, and I'm a frontend developer that enjoys creating things that live on the web. I'm from Russia, living in Krasnoyarsk and currently with focus in frontend development.
-- Currently working on <a href="https://ronte.io/"><b>Ronte Limited🏋️</b></a>
+- Currently working on <a href="https://ronte.io/"><b>Ronte Limited</b></a>
 
 <div>
 <img src="https://komarev.com/ghpvc/?username=lucasjolibois54&label=Profile%20views&color=0e75b6&style=flat" alt="lucasjolibois54" />
@@ -31,6 +31,3 @@ My name is Evgeny, and I'm a frontend developer that enjoys creating things that
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
 ![Ionic](https://img.shields.io/badge/Ionic-222222?style=for-the-badge&logo=ionic&logoColor=3880FF)
 ![Ionic](https://img.shields.io/badge/Angular-222222?style=for-the-badge&logo=angular&logoColor=DD0031)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evsgodev)](https://github.com/evsgodev/github-readme-stats)
