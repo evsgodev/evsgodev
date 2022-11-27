@@ -27,10 +27,11 @@ My name is Evgeny, and I'm a frontend developer that enjoys creating things that
 ![Material-UI](https://img.shields.io/static/v1?style=for-the-badge&message=Material-UI&color=222222&logo=Material-UI&logoColor=0081CB&label=)
 ![GSAP](https://img.shields.io/static/v1?style=for-the-badge&message=GSAP&color=222222&logo=GreenSock&logoColor=88CE02&label=)
 ![AUTH0](https://img.shields.io/static/v1?style=for-the-badge&message=Auth0&color=222222&logo=Material-UI&logoColor=0081CB&label=)
-![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=javascript&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
-![Ionic](https://img.shields.io/badge/Ionic-222222?style=for-the-badge&logo=ionic&logoColor=3880FF)
-![Ionic](https://img.shields.io/badge/Angular-222222?style=for-the-badge&logo=angular&logoColor=DD0031)
+![JavaScript](https://img.shields.io/badge/JavaScript?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript?style=for-the-badge&logo=javascript&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
+![Ionic](https://img.shields.io/badge/Ionic?style=for-the-badge&logo=ionic&logoColor=3880FF)
+![Ionic](https://img.shields.io/badge/Angular?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Ionic]([https://img.shields.io/badge/styled-components?style=for-the-badge&logo=angular&logoColor=563d7c](https://img.shields.io/static/v1?style=for-the-badge&message=styled-components&color=222222&logo=styled-components&logoColor=FFFFFF&label=))
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25eccde69228a41bbd8027ceb7d90ceee2881110f0b614851527d269f1cc2529/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6c756361736a6f6c69626f697335342673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d7261646963616c"><img align="center" width="560px" src="https://camo.githubusercontent.com/25eccde69228a41bbd8027ceb7d90ceee2881110f0b614851527d269f1cc2529/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6c756361736a6f6c69626f697335342673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="evsgodev" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=evsgodev&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=radical" style="max-width: 100%;"></a>
