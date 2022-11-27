@@ -31,3 +31,6 @@ My name is Evgeny, and I'm a frontend developer that enjoys creating things that
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
 ![Ionic](https://img.shields.io/badge/Ionic-222222?style=for-the-badge&logo=ionic&logoColor=3880FF)
 ![Ionic](https://img.shields.io/badge/Angular-222222?style=for-the-badge&logo=angular&logoColor=DD0031)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evsgodev)](https://github.com/evsgodev/github-readme-stats)
