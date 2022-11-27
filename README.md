@@ -24,6 +24,7 @@ My name is Evgeny, and I'm a frontend developer that enjoys creating things that
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&label=)
 ![Pug](https://img.shields.io/static/v1?style=for-the-badge&message=pug&color=222222&logo=pug&logoColor=FFFFFF&label=)
+![Nunjucks](https://img.shields.io/static/v1?style=for-the-badge&message=nunjucks&color=222222&logo=nunjucks&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=1572B6&label=)
 ![SCSS](https://img.shields.io/static/v1?style=for-the-badge&message=SCSS&color=222222&logo=SCSS&logoColor=1572B6&label=)
 ![Material-UI](https://img.shields.io/static/v1?style=for-the-badge&message=Material-UI&color=222222&logo=Material-UI&logoColor=0081CB&label=)
