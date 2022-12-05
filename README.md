@@ -25,7 +25,7 @@ My name is Evgeny, and I'm a frontend developer that enjoys creating things that
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&label=)
 ![Pug](https://img.shields.io/static/v1?style=for-the-badge&message=pug&color=222222&logo=pug&logoColor=FFFFFF&label=)
 ![Nunjucks](https://img.shields.io/static/v1?style=for-the-badge&message=nunjucks&color=222222&logo=nunjucks&logoColor=FFFFFF&label=)
-![Jsx](https://img.shields.io/static/v1?style=for-the-badge&message=Jsx&color=222222&logo=Jsx&logoColor=61dafb&label=)
+![Jsx](https://img.shields.io/static/v1?style=for-the-badge&message=Jsx&color=222222&logo=React&logoColor=61dafb&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=1572B6&label=)
 ![SCSS](https://img.shields.io/static/v1?style=for-the-badge&message=SCSS&color=222222&logo=Sass&logoColor=db7093&label=)
 ![Material-UI](https://img.shields.io/static/v1?style=for-the-badge&message=Material-UI&color=222222&logo=Material&logoColor=0081CB&label=)
@@ -40,7 +40,7 @@ My name is Evgeny, and I'm a frontend developer that enjoys creating things that
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=figma&color=222222&logo=figma&logoColor=FFFFFF&label=)
 ![Gulp](https://img.shields.io/static/v1?style=for-the-badge&message=Gulp&color=222222&logo=Gulp&logoColor=E34F26&label=)
 ![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=1572B6&label=)
-![NPM](https://img.shields.io/static/v1?style=for-the-badge&message=Npm&color=222222&logo=Webpack&logoColor=1572B6&label=)
-![Yarn](https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=222222&logo=Webpack&logoColor=1572B6&label=)
+![NPM](https://img.shields.io/static/v1?style=for-the-badge&message=Npm&color=222222&logo=Npm&logoColor=cb3837&label=)
+![Yarn](https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=222222&logo=Yarn&logoColor=117cad&label=)
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25eccde69228a41bbd8027ceb7d90ceee2881110f0b614851527d269f1cc2529/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6c756361736a6f6c69626f697335342673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d7261646963616c"><img align="center" width="560px" src="https://camo.githubusercontent.com/25eccde69228a41bbd8027ceb7d90ceee2881110f0b614851527d269f1cc2529/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6c756361736a6f6c69626f697335342673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="evsgodev" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=evsgodev&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=radical" style="max-width: 100%;"></a>
