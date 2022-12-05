@@ -28,7 +28,7 @@ My name is Evgeny, and I'm a frontend developer that enjoys creating things that
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=1572B6&label=)
 ![SCSS](https://img.shields.io/static/v1?style=for-the-badge&message=SCSS&color=222222&logo=Sass&logoColor=db7093&label=)
 ![Material-UI](https://img.shields.io/static/v1?style=for-the-badge&message=Material-UI&color=222222&logo=Material&logoColor=0081CB&label=)
-![GSAP](https://img.shields.io/static/v1?style=for-the-badge&message=GSAP&color=222222&logo=GreenSock&logoColor=88CE02&label=)
+![GSAP](https://img.shields.io/static/v1?style=for-the-badge&message=Gsap&color=222222&logo=GreenSock&logoColor=88CE02&label=)
 ![AUTH0](https://img.shields.io/static/v1?style=for-the-badge&message=Auth0&color=222222&logo=Material-UI&logoColor=0081CB&label=)
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=javascript&logoColor=61DAFB)
