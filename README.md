@@ -38,6 +38,7 @@ My name is Evgeny, and I'm a frontend developer that enjoys creating things that
 ![Angular](https://img.shields.io/badge/Angular-222222?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Styled-Components](https://img.shields.io/static/v1?style=for-the-badge&message=styled-components&color=222222&logo=styled-components&logoColor=db7093&label=)
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=figma&color=222222&logo=figma&logoColor=FFFFFF&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=222222&logo=Git&logoColor=f14e32&label=)
 ![Gulp](https://img.shields.io/static/v1?style=for-the-badge&message=Gulp&color=222222&logo=Gulp&logoColor=cf4647&label=)
 ![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=1572B6&label=)
 ![NPM](https://img.shields.io/static/v1?style=for-the-badge&message=Npm&color=222222&logo=Npm&logoColor=cb3837&label=)
