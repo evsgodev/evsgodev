@@ -23,8 +23,8 @@ My name is Evgeny, and I'm a frontend developer that enjoys creating things that
 
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&label=)
-![Pug](https://img.shields.io/static/v1?style=for-the-badge&message=pug&color=222222&logo=pug&logoColor=FFFFFF&label=)
-![Nunjucks](https://img.shields.io/static/v1?style=for-the-badge&message=nunjucks&color=222222&logo=nunjucks&logoColor=FFFFFF&label=)
+![Pug](https://img.shields.io/static/v1?style=for-the-badge&message=pug&color=222222&logo=pug&logoColor=a86454&label=)
+![Nunjucks](https://img.shields.io/static/v1?style=for-the-badge&message=nunjucks&color=222222&logo=nunjucks&logoColor=3d8137&label=)
 ![Jsx](https://img.shields.io/static/v1?style=for-the-badge&message=Jsx&color=222222&logo=React&logoColor=61dafb&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=1572B6&label=)
 ![SCSS](https://img.shields.io/static/v1?style=for-the-badge&message=SCSS&color=222222&logo=Sass&logoColor=db7093&label=)
